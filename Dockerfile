@@ -1,4 +1,4 @@
-FROM rhel7
+FROM fedora:24
 MAINTAINER Marek Goldmann <mgoldman@redhat.com>
 
 # Install packages necessary to run EAP

@@ -1,4 +1,4 @@
-FROM fedora:24
+FROM openshift/base-centos7
 MAINTAINER Marek Goldmann <mgoldman@redhat.com>
 
 # Install packages necessary to run EAP

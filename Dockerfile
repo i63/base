@@ -1,4 +1,4 @@
-FROM centos:7
+FROM registry.access.redhat.com/rhel7
 MAINTAINER Marek Goldmann <mgoldman@redhat.com>
 
 # Install packages necessary to run EAP
